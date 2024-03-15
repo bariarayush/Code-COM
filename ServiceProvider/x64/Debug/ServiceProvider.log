@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  CatBaseUnknown.cpp
+  dllmain.cpp
+  ICalculator.cpp
+  IHelloWorld.cpp
+  IMobile.cpp
+  IUnknown.cpp
+  Generating Code...
+     Creating library D:\Work_dsi\Training\com\HelloWorldClient\x64\Debug\ServiceProvider.lib and object D:\Work_dsi\Training\com\HelloWorldClient\x64\Debug\ServiceProvider.exp
+  ServiceProvider.vcxproj -> D:\Work_dsi\Training\com\HelloWorldClient\x64\Debug\ServiceProvider.dll

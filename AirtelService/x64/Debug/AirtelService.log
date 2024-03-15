@@ -1,0 +1,27 @@
+﻿  pch.cpp
+  TIE_ICalculator.cpp
+D:\Work_dsi\Training\com\HelloWorldClient\AirtelService\CMobile.h(19,9): warning C4251: 'CMobile::_rstr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CMobile'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\xstring(5297,17): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Work_dsi\Training\com\HelloWorldClient\AirtelService\CMobile.h(19,16): warning C4251: 'CMobile::_mstr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CMobile'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\xstring(5297,17): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  CCalculator.cpp
+  CFactory.cpp
+D:\Work_dsi\Training\com\HelloWorldClient\AirtelService\CHelloWorld.h(15,12): warning C4251: 'CHelloWorld::_str': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CHelloWorld'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\xstring(5297,17): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Work_dsi\Training\com\HelloWorldClient\AirtelService\CMobile.h(19,9): warning C4251: 'CMobile::_rstr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CMobile'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\xstring(5297,17): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Work_dsi\Training\com\HelloWorldClient\AirtelService\CMobile.h(19,16): warning C4251: 'CMobile::_mstr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CMobile'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\xstring(5297,17): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  CHelloWorld.cpp
+D:\Work_dsi\Training\com\HelloWorldClient\AirtelService\CHelloWorld.h(15,12): warning C4251: 'CHelloWorld::_str': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CHelloWorld'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\xstring(5297,17): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  CMobile.cpp
+D:\Work_dsi\Training\com\HelloWorldClient\AirtelService\CMobile.h(19,9): warning C4251: 'CMobile::_rstr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CMobile'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\xstring(5297,17): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+D:\Work_dsi\Training\com\HelloWorldClient\AirtelService\CMobile.h(19,16): warning C4251: 'CMobile::_mstr': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'CMobile'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\include\xstring(5297,17): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  dllmain.cpp
+  Generating Code...
+D:\Work_dsi\Training\com\HelloWorldClient\AirtelService\CFactory.cpp(79): warning C4715: 'CFactory::get_calInstance': not all control paths return a value
+     Creating library D:\Work_dsi\Training\com\HelloWorldClient\x64\Debug\AirtelService.lib and object D:\Work_dsi\Training\com\HelloWorldClient\x64\Debug\AirtelService.exp
+  AirtelService.vcxproj -> D:\Work_dsi\Training\com\HelloWorldClient\x64\Debug\AirtelService.dll
